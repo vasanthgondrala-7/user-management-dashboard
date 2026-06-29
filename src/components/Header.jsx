@@ -2,7 +2,6 @@ export default function Header({ totalUsers, onAddUser }) {
   return (
     <header className="app-header">
       <div>
-        <p className="eyebrow">Admin Console</p>
         <h1>User Management Dashboard</h1>
         <p className="header-copy">
           Manage user records with search, filters, sorting, pagination, and JSONPlaceholder CRUD operations.
