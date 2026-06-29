@@ -2,6 +2,9 @@
 
 A React + Vite user management dashboard built for the JavaScript Basics assessment. It uses JSONPlaceholder's `/users` endpoint and supports viewing, adding, editing, deleting, searching, sorting, filtering, and paginating users.
 
+## 🚀 Live Demo
+🔗 **[View Live Application](https://user-dashboard-hub.netlify.app/)**
+
 ## Features
 
 - Fetch users from `https://jsonplaceholder.typicode.com/users`
